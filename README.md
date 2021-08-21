@@ -1,3 +1,3 @@
 msa-learn
 
-fork from : [TIL](https://github/leeseojune53/TIL)
+fork from : [TIL](https://github.com/leeseojune53/TIL)
